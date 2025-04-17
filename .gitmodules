@@ -1,3 +1,0 @@
-[submodule "rbtree"]
-	path = rbtree
-	url = https://github.com/week06-rbtree/rbtree.git
